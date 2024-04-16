@@ -22,7 +22,7 @@ spec:
   - name: git-url
     value: '{{source_url}}'
   - name: output-image
-    value: quay.io/mkosiarc_rhtap/default/test-application/devfile-sample-python-basicmkosiarc-testing
+    value: quay.io/mkosiarc_rhtap/default/test-application/devfile-sample-python-basic:mkosiarc-test
   - name: path-context
     value: .
   - name: revision
